@@ -1,0 +1,4 @@
+This page highlights a new bootstrap layout for making box tiles for items/models on a page.
+
+It is mostly going to allow individuals create adaptable store-front layouts using Bootstrap for making the tiles 
+and getting things well sorted out.
